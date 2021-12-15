@@ -1,0 +1,2 @@
+grep -R 'word' .
+grep -R 'string-to-search' /path/to/dir/
