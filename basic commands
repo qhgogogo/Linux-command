@@ -1,4 +1,5 @@
 To edit a file to unix format: dos2unix filename
+to view cat -v file
 
 grep -R 'word' .
 grep -R 'string-to-search' /path/to/dir/
